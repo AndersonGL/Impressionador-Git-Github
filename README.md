@@ -7,3 +7,11 @@ Estudos de git e github
 
 git --version
 ````
+
+- Como listar os arquivos da minha pasta
+
+```bash
+
+ls
+
+````
