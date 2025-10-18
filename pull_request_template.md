@@ -7,13 +7,14 @@ Descreva brevemente que o Pull Request Faz.
 
 - [ ] Bug Fix
 - [ ] Nova Feature
-- [ x ] Melhorias na Documentação
+- [x] Melhorias na Documentação
 
 ### Checklist
 
 - [ ] Testes adiconados
-- [ x ] Documentação atualizada
+- [x] Documentação atualizada
 - [ ] Revisado por alguém da equipe
+
 
 
 
